@@ -1,0 +1,11 @@
+
+.items{
+  width: 50%;
+  background-color: pink;
+  margin: auto;
+  height: 100px;
+}
+.items > button {
+   margin-left: 10px;
+
+}
